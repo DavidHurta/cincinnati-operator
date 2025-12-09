@@ -1,14 +1,19 @@
 # See the OWNERS docs: https://git.k8s.io/community/contributors/guide/owners.md
 
 approvers:
-- LalatenduMohanty
 - PratikMahajan
 - wking
+- fao89
+- DavidHurta
+- hongkailiu
 reviewers:
-- LalatenduMohanty
 - PratikMahajan
 - wking
+- fao89
+- DavidHurta
+- hongkailiu
 emeritus_approvers:
 - petr-muller
+- LalatenduMohanty
 
 component: "OpenShift Update Service / operator"
